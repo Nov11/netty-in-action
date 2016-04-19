@@ -11,7 +11,7 @@ import io.netty.util.CharsetUtil;
 import java.util.List;
 
 /**
- * Created by c0s on 16-4-19.
+ * Created by Nov11 on 16-4-19.
  */
 public class LogEventDecoder extends MessageToMessageDecoder<DatagramPacket>{
     @Override

@@ -20,7 +20,7 @@ import org.junit.Test;
 import java.net.InetSocketAddress;
 
 /**
- * Created by c0s on 16-4-18.
+ * Created by Nov11 on 16-4-18.
  */
 public class Bootstraping {
     public void bootOneClient() {

@@ -16,7 +16,7 @@ import javax.net.ssl.SSLException;
 import java.security.cert.CertificateException;
 
 /**
- * Created by c0s on 16-4-18.
+ * Created by Nov11 on 16-4-18.
  */
 public class ChatServerInitializer extends ChannelInitializer<Channel> {
     private final ChannelGroup group;

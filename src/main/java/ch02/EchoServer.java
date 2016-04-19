@@ -11,7 +11,7 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 import java.net.InetSocketAddress;
 
 /**
- * Created by c0s on 16-4-16.
+ * Created by Nov11 on 16-4-16.
  */
 public class EchoServer {
     public static final int serverPort = 8901;

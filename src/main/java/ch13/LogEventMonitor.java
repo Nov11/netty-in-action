@@ -10,7 +10,7 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioDatagramChannel;
 
 /**
- * Created by c0s on 16-4-19.
+ * Created by Nov11 on 16-4-19.
  */
 public class LogEventMonitor {
     public static void main(String[] args) throws InterruptedException {

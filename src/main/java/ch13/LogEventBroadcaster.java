@@ -15,7 +15,7 @@ import java.net.URISyntaxException;
 import java.net.URL;
 
 /**
- * Created by c0s on 16-4-19.
+ * Created by Nov11 on 16-4-19.
  */
 public class LogEventBroadcaster {
     private final EventLoopGroup group;

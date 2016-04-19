@@ -10,7 +10,7 @@ import java.net.InetSocketAddress;
 import java.util.List;
 
 /**
- * Created by c0s on 16-4-19.
+ * Created by Nov11 on 16-4-19.
  */
 public class LogEventEncoder extends MessageToMessageEncoder<LogEvent>{
 
